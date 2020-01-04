@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad1</string>
+    <string name="change">Que Onda</string>
+    <string name="btnHelloText">+1</string>
+    <string name="txtSaludoHint">Pon tu Saludo</string>
+    <string name="btnReturn"></string>
+</resources>
